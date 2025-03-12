@@ -101,6 +101,9 @@ Também compartilho conhecimento no Instagram! [Me segue lá 🚀](https://www.i
 
 ### 📊 Estatísticas
 
+
+
+
 <p>
   <img 
     align="left" 
