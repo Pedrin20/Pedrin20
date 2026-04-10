@@ -3,7 +3,7 @@
 **`Dev`**
 
 🖐️ Olá! Meu nome é **Pedro Henrique**, sou um entusiasta da tecnologia e estudante de **Ciência da Computação** na Uninassau. 
-Atualmente, desenvolvo projetos **Web**, explorando **Angular, Firebase e Node.js**. 
+Atualmente, desenvolvo projetos **Web**, explorando **React(Vite), MYSQL e Node.js**. 
 Também compartilho conhecimento no Instagram! [Me segue lá 🚀](https://www.instagram.com/pedru_3/)
 
 
@@ -62,6 +62,16 @@ Também compartilho conhecimento no Instagram! [Me segue lá 🚀](https://www.i
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" 
 />
+
+<img 
+    align="left" 
+    alt="Mysql"
+    title="Mysql" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" 
+/>
+
 <img 
     align="left" 
     alt="Git" 
